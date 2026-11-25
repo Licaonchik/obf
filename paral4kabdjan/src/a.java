@@ -1,0 +1,1 @@
+public class a { public static void b(c[] d) { int e = 100; c f = "Привет!"; g(e, f); } public static void g(int h, c i) { j.k.l(i + " " + h); } }
